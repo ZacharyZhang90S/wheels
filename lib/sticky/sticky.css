@@ -7,20 +7,14 @@
   opacity: 80%;
   color: white;
 }
-#topbar.sticky {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-}
+
 .topbarPlaceholder {
   width: 100%;
   height: 100px;
 }
-button.sticky {
+.sticky {
   position: fixed;
   left: 0;
-  top: 100px;
 }
 main {
   background: #ddd;
